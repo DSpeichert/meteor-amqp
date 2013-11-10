@@ -1,0 +1,9 @@
+{
+  "name": "amqp",
+  "description": "AMQP driver for node (port of amqp npm package)",
+  "homepage": "https://npmjs.org/package/amqp",
+  "author": "Don Daniello (https://github.com/DonDaniello)",
+  "version": "0.6.6",
+  "git": "https://github.com/DonDaniello/meteor-amqp.git",
+  "packages": { }
+}

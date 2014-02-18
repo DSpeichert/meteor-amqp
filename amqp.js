@@ -1,1 +1,1 @@
-amqp = require('amqp');
+amqp = Npm.require('amqp');

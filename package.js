@@ -1,5 +1,6 @@
 Package.describe({
-  summary: 'AMQP driver for node'
+  summary: 'AMQP driver for node',
+  git: 'https://github.com/DSpeichert/meteor-amqp'
 });
 
 Npm.depends({
